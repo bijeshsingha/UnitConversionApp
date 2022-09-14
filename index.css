@@ -14,10 +14,12 @@ body {
 }
 
 .container {
-    width: 550px;
+    width: 100%;
     min-width: 550px;
+    max-width: 600px;
     margin: 0 auto;
     background: #F4F4F4;
+    overflow: hidden;
     border-radius: 10px;
 }
 
